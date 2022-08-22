@@ -1,0 +1,35 @@
+#input,#input-md {
+	font-family: "Mohr Rounded Medium";
+	font-weight: bolder;
+	background-color: transparent;
+	color: #29abe2;
+	outline: none;
+	border: 0px solid #ffffff;
+	border: none !important;
+	border-radius: 10px;
+}
+
+#input{
+	font-size: 120%;
+	text-align: center;
+}
+
+#input-md{
+	font-size: 120%;
+	text-align: left;
+}
+
+#feedback_close-btn{
+	background: #f80000;
+	color: #ffffff;
+	font-size: 100%;
+	border: none;
+	border-radius: 5px;
+}
+#feedback_close-btn:hover,#feedback_close-btn:active,#feedback_close-btn:focus{
+	background: #ff0000;
+	font-size: 90%;
+}
+
+#feedback-ifm{
+}  
